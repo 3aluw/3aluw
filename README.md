@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3aluw
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning more about Web3.0
-- 💞️ I’m looking to collaborate on any front-end project
+- 🌱 I’m currently learning more about CMS (wordpress mainly)
+- 💞️ I’m looking to collaborate on any front-end project built with vue.js
 - 📫reach me via email :2000abdallah2014@gmail.com
 
 <!---
