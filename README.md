@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3aluw
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently working solo
-- 💞️ I’m looking to collaborate on any front-end project built with vue/nuxt...
+- 💞️ I’m open for collaboration on any front-end project built with vue/nuxt...
+- 💞️ I’d be happy to build/mantain npm packages
 - 📫reach me via email :2000abdallah2014@gmail.com
 
 <!---
